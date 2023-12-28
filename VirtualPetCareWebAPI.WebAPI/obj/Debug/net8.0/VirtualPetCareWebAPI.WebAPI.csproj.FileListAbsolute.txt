@@ -1,0 +1,236 @@
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.exe
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.deps.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.VirtualPetCareWebAPI.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\scopedcss\bundle\VirtualPetCareWebAPI.WebAPI.styles.css
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.CopyComplete
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.exe
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.deps.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.runtimeconfig.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.VirtualPetCareWebAPI.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VirtualPetCareWebAPI.WebAPI.props
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\scopedcss\bundle\VirtualPetCareWebAPI.WebAPI.styles.css
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.csproj.CopyComplete
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\VirtualPetCareWebAPI.WebAPI.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.WebAPI.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Ninject.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll

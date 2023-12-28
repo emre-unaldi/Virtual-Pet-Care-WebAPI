@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VirtualPetCareWebAPI.WebAPI.props" />
+</Project>

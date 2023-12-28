@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kTevyP1YbLeZ3sMJFG1wkHXoFRBSrT06aGfC638x+FY=",
+  "Source": "VirtualPetCareWebAPI.WebAPI",
+  "BasePath": "_content/VirtualPetCareWebAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

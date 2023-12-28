@@ -1,0 +1,38 @@
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.deps.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.CopyComplete
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.deps.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Core.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.DataAccess.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.csproj.CopyComplete
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.Business.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\VirtualPetCareWebAPI.Business.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Business\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.Business.dll

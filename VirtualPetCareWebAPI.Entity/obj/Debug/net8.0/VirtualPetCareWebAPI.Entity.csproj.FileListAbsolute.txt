@@ -1,0 +1,33 @@
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.deps.json
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\C# BTK\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.deps.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\Entity\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.deps.json
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\bin\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\refint\VirtualPetCareWebAPI.Entity.dll
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\VirtualPetCareWebAPI.Entity.pdb
+C:\Users\emree\Desktop\C#\VirtualPetCareWebAPI\VirtualPetCareWebAPI.Entity\obj\Debug\net8.0\ref\VirtualPetCareWebAPI.Entity.dll
